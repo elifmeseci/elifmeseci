@@ -1,11 +1,12 @@
 ### Hi :wave: I'm Elif Meşeci
-## B.Eng. Student, R&D Project Researcher and AI Developer
+## MSc Student, R&D Project Researcher and AI Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifmeseci&color=yellow" alt="elifmeseci" /> </p>
 
-- :telescope: I’m currently working at [Simurg AI](https://www.simurgai.com)
+-  ✨ I’m currently working as a Research Assistant at ZBEUN.
+- :telescope: My team: [Simurg AI](https://www.simurgai.com)
 - :seedling: I’m interested in Artificial Intelligence
-- :speech_balloon: Ask me about Deep Learning, Machine Learning, Image Processing
+- :speech_balloon: Ask me about Deep Learning, Machine Learning,Computer Vision, Image Processing, Object Detection
 - :mailbox: How to reach me: elif.meseci@outlook.com
 
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
