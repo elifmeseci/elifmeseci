@@ -16,7 +16,7 @@
  <img src="https://icongr.am/devicon/python-original.svg?size=128&color=currentColor" alt="python" width="40" height="40"/>
  <img src="https://icongr.am/devicon/git-original.svg?size=128&color=currentColor" alt="git" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
- <img src="https://icongr.am/devicon/php-original.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> 
+ <img src="https://icongr.am/devicon/php-plain.svg?size=128&color=000000" alt="php" width="40" height="40"/> 
  <img src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor" alt="java" width="40" height="40"/>
  <img src="https://icongr.am/devicon/oracle-original.svg?size=128&color=currentColor" alt="oracle" width="40" height="40"/>
 </p>
