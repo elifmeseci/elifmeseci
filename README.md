@@ -1,5 +1,5 @@
 ### Hi :wave: I'm Elif Meşeci
-## MSc Student, R&D Project Researcher and AI Specialist
+## PhD Student, R&D Project Researcher and AI Specialist
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elifmeseci&color=yellow" alt="elifmeseci" /> </p>
 
